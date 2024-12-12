@@ -1,0 +1,13 @@
+{
+    "type": "postgres",
+    "host": "dpg-ctd1eg3v2p9s73fo5580-a",
+    "port": 5432,
+    "username": "exame_user",
+    "password": "5WhUy8TBR4c2GCzxOTUozEFX9m7tCUR5",
+    "database": "exame",
+    "synchronize": true,
+    "logging": true,
+    "entities": [
+        "src/models/*.ts"
+    ]
+}
